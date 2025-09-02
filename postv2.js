@@ -9,7 +9,13 @@ var postsData = {
     "username": "1",
     "content": "kontol",
     "timestamp": "2025-09-02T08:54:19.045Z",
-    "comments": {}
+    "comments": {
+      "comment1": {
+        "username": "taik",
+        "content": "bang",
+        "timestamp": "2025-09-02T08:55:46.608Z"
+      }
+    }
   },
   "post3": {
     "username": "taik",
