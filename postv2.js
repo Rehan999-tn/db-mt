@@ -10,5 +10,11 @@ var postsData = {
     "content": "kontol",
     "timestamp": "2025-09-02T08:54:19.045Z",
     "comments": {}
+  },
+  "post3": {
+    "username": "taik",
+    "content": "p",
+    "timestamp": "2025-09-02T08:55:01.388Z",
+    "comments": {}
   }
 };
