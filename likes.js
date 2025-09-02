@@ -1,1 +1,5 @@
-var likesData = {};
+var likesData = {
+  "post1": [
+    "taik"
+  ]
+};
