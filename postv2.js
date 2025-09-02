@@ -14,6 +14,11 @@ var postsData = {
         "username": "taik",
         "content": "bang",
         "timestamp": "2025-09-02T08:55:46.608Z"
+      },
+      "comment2": {
+        "username": "1",
+        "content": "hai",
+        "timestamp": "2025-09-02T08:56:12.337Z"
       }
     }
   },
