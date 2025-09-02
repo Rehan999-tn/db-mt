@@ -8,6 +8,11 @@ var postsData = {
         "username": "1",
         "content": "halo bg",
         "timestamp": "2025-09-02T08:53:59.560Z"
+      },
+      "comment2": {
+        "username": "1",
+        "content": "p",
+        "timestamp": "2025-09-02T08:54:08.959Z"
       }
     }
   }
