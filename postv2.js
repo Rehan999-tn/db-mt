@@ -27,5 +27,11 @@ var postsData = {
     "content": "p",
     "timestamp": "2025-09-02T08:55:01.388Z",
     "comments": {}
+  },
+  "post4": {
+    "username": "taik",
+    "content": "f",
+    "timestamp": "2025-09-02T09:02:22.276Z",
+    "comments": {}
   }
 };
