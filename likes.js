@@ -1,5 +1,3 @@
 var likesData = {
-  "post1": [
-    "1"
-  ]
+  "post1": []
 };
