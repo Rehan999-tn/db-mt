@@ -1,15 +1,1 @@
-{
-  "post1": {
-    "username": "xemzz",
-    "content": "halo",
-    "timestamp": "2025-09-02T04:54:06.328Z",
-    "comments": {
-      "comment1": {
-        "username": "xemzz",
-        "content": "halo",
-        "timestamp": "2025-09-02T04:54:18.807Z"
-      }
-    },
-    "likes": 1
-  }
-}
+{}
