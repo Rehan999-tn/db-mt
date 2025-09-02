@@ -3,6 +3,12 @@ var postsData = {
     "username": "xemzz",
     "content": "pepek ",
     "timestamp": "2025-09-02T08:43:52.255Z",
-    "comments": {}
+    "comments": {
+      "comment1": {
+        "username": "1",
+        "content": "halo bg",
+        "timestamp": "2025-09-02T08:53:59.560Z"
+      }
+    }
   }
 };
