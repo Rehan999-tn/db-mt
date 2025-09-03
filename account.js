@@ -1,9 +1,4 @@
 var accountsData = {
-  "1": {
-    "password": "2",
-    "sessionId": "#LR50Q",
-    "createdAt": "2025-09-02T08:53:22.150Z"
-  },
   "xemzz": {
     "password": "12314",
     "sessionId": "#XDWG1",
