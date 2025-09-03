@@ -8,5 +8,8 @@ var likesData = {
   "post3": [
     "1",
     "taik"
+  ],
+  "post4": [
+    "pk"
   ]
 };
