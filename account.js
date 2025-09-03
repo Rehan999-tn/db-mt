@@ -1,9 +1,4 @@
 var accountsData = {
-  "taik": {
-    "password": "kontol",
-    "sessionId": "#LR50Q",
-    "createdAt": "2025-09-02T09:47:09.200Z"
-  },
   "xem": {
     "password": "pp",
     "sessionId": "#LR50Q",
