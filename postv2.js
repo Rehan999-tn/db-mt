@@ -5,12 +5,6 @@ var postsData = {
     "timestamp": "2025-09-02T08:47:48.677Z",
     "comments": {}
   },
-  "post3": {
-    "username": "taik",
-    "content": "p",
-    "timestamp": "2025-09-02T08:55:01.388Z",
-    "comments": {}
-  },
   "post4": {
     "username": "xem",
     "content": "kontol pecah",
