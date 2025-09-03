@@ -32,5 +32,11 @@ var postsData = {
     "content": "p",
     "timestamp": "2025-09-02T08:55:01.388Z",
     "comments": {}
+  },
+  "post4": {
+    "username": "xem",
+    "content": "kontol pecah",
+    "timestamp": "2025-09-03T14:14:48.874Z",
+    "comments": {}
   }
 };
